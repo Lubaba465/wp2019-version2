@@ -1,0 +1,15 @@
+
+.recoverpw{
+
+  height:300px;
+  width:300px;
+  margin:100px auto;
+  border:1px #CCC solid;
+  padding:40px;
+}
+
+.recoverpw input {
+  padding:5px 30px;
+  margin:5px
+
+}
